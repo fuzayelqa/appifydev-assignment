@@ -7,7 +7,7 @@ This Assignement is for AppifyDev and the application is https://echogpt.live/
 **Name:** Ozih Uddin Al Fuzayel    
 **Role:** SQA Intern (Assignment Submission)  
 **Date Submitted:** 27 August 2025  
-
+ 
 ---
 
 ## Assignment Overview
