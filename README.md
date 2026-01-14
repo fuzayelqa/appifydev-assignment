@@ -2,7 +2,7 @@
 This Assignement is for AppifyDev and the application is https://echogpt.live/
  
 # SQA Internship Assignment – AppifyDevs
- 
+  
 ## Candidate Information    
 **Name:** Ozih Uddin Al Fuzayel    
 **Role:** SQA Intern (Assignment Submission) 
